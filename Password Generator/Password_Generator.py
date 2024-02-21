@@ -1,4 +1,5 @@
-from GUI import *
+# Import the GUI class from the GUI module
+from GUI import GUI
 
-#Run the Application to Generate a Password
+# Create an instance of the GUI class to run the password generator application
 GUI()
